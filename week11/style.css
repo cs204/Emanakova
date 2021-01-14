@@ -1,0 +1,11 @@
+body {
+    background-color :#FAC29B;
+}
+#flex {
+    display:flex;
+    flex-direction: row;
+}
+
+main {
+    background-color :#ffffff;
+}
