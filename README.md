@@ -1,2 +1,0 @@
-# Emanakova
-psets
