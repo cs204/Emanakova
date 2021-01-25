@@ -1,0 +1,53 @@
+html {
+    background-image : url(https://cdnimg.rg.ru/i/gallery/8b1a0b73/2_dba1c1f8.jpg);
+    background-size: 100%;
+}
+header {
+    text-align: center;
+}
+nav {
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 0;
+    width: 30%;
+
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0
+
+}
+nav li {
+    display: inline;
+}
+nav a {
+    float: left;
+    width: 33.3%;
+    height: 30px;
+    background-color: #cc0033;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    padding-top: 10px;
+    font-size: 18px;
+    color: #ffffff
+}
+nav a:hover {
+    background-color: #990033;
+    color: Tomato
+
+}
+description {
+
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+description p {
+    background: rgba(255, 255, 255, 0);
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+}
